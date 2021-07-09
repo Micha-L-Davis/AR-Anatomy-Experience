@@ -3,8 +3,11 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+PDF/
 Assets/AssetStoreTools*
 Assets/GameDevHQ/
+PDF.meta
+GameDevHQ.meta
 
 # Visual Studio cache directory
 .vs/
