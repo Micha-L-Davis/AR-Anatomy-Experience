@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 94163683
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: horse
+      Dependencies: {}
